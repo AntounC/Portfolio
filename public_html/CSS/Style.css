@@ -7,4 +7,20 @@ nav a{
 /*Changed links' color to red because it was not visible in the background when it
 was blue*/
 }
-nav
+
+h1 {
+    
+    border: 5px dotted red;
+    padding:20px
+   
+}
+
+h1{
+    font-size:40px
+    /* had to make seperate h1 selector because font-size would not work in the
+    same selector as border and padding */
+ }
+ 
+ h2 {
+    padding-top: 0px
+}
