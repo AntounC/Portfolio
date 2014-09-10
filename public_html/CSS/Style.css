@@ -1,0 +1,10 @@
+
+body {
+    background-color: blue;
+}
+nav a{
+    color: red
+/*Changed links' color to red because it was not visible in the background when it
+was blue*/
+}
+nav
